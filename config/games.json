@@ -10,6 +10,11 @@
     "title": "1v1.space"
   },
   {
+    "link": "projects/coin-factory/index.html",
+    "imgSrc": "projects/1v1space/splash.png",
+    "title": "Coin Factory"
+  },
+  {
     "link": "projects/2048/index.html",
     "imgSrc": "projects/2048/thumb.png",
     "title": "2048"
