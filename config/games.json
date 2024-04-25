@@ -36,6 +36,26 @@
     "title": "Achievement Unlocked"
   },
   {
+    "link": "projects/idle-mining-empire/index.html",
+    "imgSrc": "projects/idle-mining-empire/idle-mining-empire.png",
+    "title": "Idle Mining Empire"
+  },
+  {
+    "link": "projects/idle-startup-tycoon/index.html",
+    "imgSrc": "projects/idle-startup-tycoon/img1.png",
+    "title": "Idle Startup Tycoon"
+  },
+    {
+    "link": "projects/subway-surfers-bali/index.html",
+    "imgSrc": "projects/subway-surfers-bali/bali.png",
+    "title": "Subway Surfers Bali"
+  },
+    {
+    "link": "projects/subway-surfers-havanna/index.html",
+    "imgSrc": "projects/subway-surfers-havanna/image.png",
+    "title": "Subway Surfers Havanna"
+  },
+  {
     "link": "projects/adrenalinechallenge/index.html",
     "imgSrc": "projects/adrenalinechallenge/adrenalinechallenge.jpg",
     "title": "Adrenaline Challenge"
